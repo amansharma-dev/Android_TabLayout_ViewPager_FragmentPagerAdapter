@@ -39,3 +39,4 @@ In TabPagerAdapter java class extend FragmentPagerAdapter and implement method:
         //Total number of tabs
         return 3;
     }
+```
