@@ -43,7 +43,7 @@ In TabPagerAdapter java class extend FragmentPagerAdapter and implement method:
 
 # Support :+1:
 [Youtube](https://www.youtube.com/channel/UCXYC-qn_xUNoNBVMbF-_RAQ)  
-[Instagram](https://www.instagram.com/typetokod/)  
+[Instagram](https://www.instagram.com/typetocode/)  
 [Twitter](https://twitter.com/thekod25)
 
 ### Thank You! 
