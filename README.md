@@ -1,4 +1,7 @@
 # TabLayout
+
+![](Android_TabLayout_ViewPager_FragmentPagerAdapter_main.gif)
+
 Hello, 
 I have focused on the implementation of **TabLayout**, in which you will also get to know 
 how **ViewPager** & **FragmentPagerAdapter** plays an important role to provide more functionality to the TabLayouts.
