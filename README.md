@@ -6,7 +6,7 @@ Hello,
 I have focused on the implementation of **TabLayout**, in which you will also get to know 
 how **ViewPager** & **FragmentPagerAdapter** plays an important role to provide more functionality to the TabLayouts.
 
-# What you will learn. 
+# What I have learned. 
 - [x] Extend **FragmentPagerAdapter** in a java class *TabPagerAdapter*.
 
 - [x] Implementation of **design support library** in *build.gradle(Module:app)*.
