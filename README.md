@@ -17,7 +17,7 @@ how **ViewPager** & **FragmentPagerAdapter** plays an important role to provide 
 
 - [x] Proper use of text & colors in **strings.xml & colors.xml** file in a project, check *res->values*.
 
-# Note to Novice
+# Notes
 In TabPagerAdapter java class extend FragmentPagerAdapter and implement method:
 * **getItem(int i)**
 ```javascript
